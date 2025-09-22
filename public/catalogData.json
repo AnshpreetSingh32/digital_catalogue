@@ -1,0 +1,9 @@
+[
+  { "type": "image", "content": "https://placehold.co/600x800/b91c1c/white?text=GENWIN" },
+  { "type": "toc", "title": "Table of Contents" },
+  { "type": "image", "content": "https://placehold.co/600x800/3b82f6/white?text=Product+1", "specUrl": "/specs/product1.pdf", "requestQuote": true },
+  { "type": "image", "content": "https://placehold.co/600x800/16a34a/white?text=Product+2", "specUrl": "/specs/product2.pdf", "requestQuote": true },
+  { "type": "video", "content": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+  { "type": "image", "content": "https://placehold.co/600x800/f97316/white?text=Product+3", "specUrl": "/specs/product3.pdf", "requestQuote": true },
+  { "type": "image", "content": "https://placehold.co/600x800/7e22ce/white?text=Contact+Us" }
+]

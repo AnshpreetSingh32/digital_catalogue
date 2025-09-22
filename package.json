@@ -11,12 +11,19 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "howler": "^2.2.4",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-medium-image-zoom": "^5.4.0",
+    "react-pageflip": "^2.0.3",
+    "react-player": "^3.3.3",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
     "@eslint/js": "^9.35.0",
+    "@types/howler": "^2.2.12",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
     "@vitejs/plugin-react": "^5.0.2",
